@@ -1,0 +1,118 @@
+*{
+    font-family: 'Merienda', cursive !important;
+}
+.text-color1{
+    color: #FF8B00 !important;
+}
+
+.btn-green{
+    background-color: #396C03 !important;
+}
+.seacondry-color{
+    background-color: #FF8B00 !important;
+
+}
+.text-color2{
+    color: #396C03 !important;
+}
+
+.font-size-65{
+    font-size: 65px;
+    font-weight: 700;
+}
+.font-size-24{
+    font-size: 24px;
+}
+.bg{
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.4) 100%);
+}
+.margin{
+    margin-left: 25%;
+}
+
+.section-1{
+    background-color: hsl(120, 73%, 75%, 0.3)
+    
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+.hero-div1{
+    position: relative;
+    
+}
+.hero-div2{
+    top: 20px;
+    
+}
+
+.hero-div3{
+    position: relative;
+    bottom: 150px;
+}
+
+.text{
+    color: #396C03;
+    font-size: 50px;
+}
+
+.card-two-bg{
+    background-color: rgba(255, 139, 0, 0.1);
+}
+
+.card-six-bg{
+    background-color: rgba(255, 139, 0, 0.1);
+}
+
+.ccd{
+  
+    background-color: rgba(255, 139, 0, 0.1); 
+}
+
+.cc-background{
+    background-color:rgba(57, 108, 3, 0.1);
+}
+
+.card-four{
+ background-image: url(./image\ 3.0.svg);
+ background-repeat: no-repeat;
+ height: 100vh;
+ width: 100%;
+}
+
+
+
+.Foodtime-text{
+    color: white;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-bg-color
+{
+    background-color: #396C03;
+}
+
+
+
+
+
+
+
+
+
+
+
